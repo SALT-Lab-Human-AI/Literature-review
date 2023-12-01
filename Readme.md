@@ -36,4 +36,14 @@ For each paper, we provide detailed information, including the title, DOI, abstr
 [Insert BibTeX citation here]
 
 ```
+### Authoring Tool
 
+We provide an AI-enabeld authoring tool for information extraction to reduce the workload for organization
+
+### Sturcture
+
+
+### 💪 Contributors
+<a href="[https://github.com/SALT-Lab-Human-AI/Literature-review]">
+  <img src="https://contrib.rocks/image?repo=SALT-Lab-Human-AI/Literature-review" />
+</a>
