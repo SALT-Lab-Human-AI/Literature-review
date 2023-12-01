@@ -23,3 +23,13 @@ Abstract
 
 
 ### Cognitive Architectures for Language Agents
+
+
+
+
+
+### mango: A Modular Python-Based Agent Simulation Framework
+
+
+
+### (Ir)rationality in AI: State of the Art, Research Challenges and Open Questions

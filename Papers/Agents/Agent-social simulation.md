@@ -33,3 +33,4 @@ abstract
 }
 ```
 
+### Swarm Synergy: A Silent Way of Forming Community

@@ -1,0 +1,3 @@
+- "Time to Revisit Existing Student’s Performance Evaluation Approach in Higher Education Sector in a New Era of ChatGPT — A Case Study" suggests that AI-based tools like ChatGPT can significantly impact students' learning outcomes, indicating a need for new evaluation methods.
+- "Benchmarking LLM powered Chatbots: Methods and Metrics" proposes a novel E2E benchmark for evaluating the accuracy and usefulness of LLM-powered chatbots.
+- "Conversational AI-Powered Design: ChatGPT as Designer, User, and Product" demonstrates the effectiveness of ChatGPT in a human-centered design process, but also points out limitations that need to be considered in evaluation.

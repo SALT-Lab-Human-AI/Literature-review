@@ -1,0 +1,5 @@
+- "Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era" introduces a novel benchmark for evaluating the interaction ability of LLMs in multistep interactive environments.
+- "Understanding the Benefits and Challenges of Deploying Conversational AI Leveraging Large Language Models for Public Health Intervention" highlights challenges in supporting public and personal health needs with LLM-driven chatbots.
+- "Conversational AI from an Information Retrieval Perspective: Remaining Challenges and a Case for User Simulation" argues for user simulation as a potential solution to the lack of appropriate evaluation methodology and resources.
+- "The Success of Conversational AI and the AI Evaluation Challenge It Reveals" discusses the challenge of objectively evaluating conversational AI systems due to their creativity and variation.
+- "Persona-Based Conversational AI: State of the Art and Challenges" reviews current methods that utilize persona information in conversational AI, outlining challenges and future research directions.
