@@ -2,7 +2,7 @@
 
 This repository is dedicated to the sharing of academic papers for research purposes. If any authors or publishers have concerns about their work being listed here, please contact us to have it removed.
 
-## Repository Structure
+### Repository Structure
 
 Each file in this repository follows a standard format to ensure consistency and ease of navigation.
 
@@ -39,8 +39,6 @@ For each paper, we provide detailed information, including the title, DOI, abstr
 ### Authoring Tool
 
 We provide an AI-enabeld authoring tool for information extraction to reduce the workload for organization
-
-### Sturcture
 
 
 ### 💪 Contributors
