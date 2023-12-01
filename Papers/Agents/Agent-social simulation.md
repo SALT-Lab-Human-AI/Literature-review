@@ -14,3 +14,22 @@ abstract
 
 > We address the integration of storytelling and Large Language Models (LLMs) to develop engaging and believable Social Chatbots (SCs) in community settings. Motivated by the potential of fictional characters to enhance social interactions, we introduce Storytelling Social Chatbots (SSCs) and the concept of story engineering to transform fictional game characters into "live" social entities within player communities. Our story engineering process includes three steps: (1) Character and story creation, defining the SC's personality and worldview, (2) Presenting Live Stories to the Community, allowing the SC to recount challenges and seek suggestions, and (3) Communication with community members, enabling interaction between the SC and users. We employed the LLM GPT-3 to drive our SSC prototypes, "David" and "Catherine," and evaluated their performance in an online gaming community, "DE (Alias)," on Discord. Our mixed-method analysis, based on questionnaires (N=15) and interviews (N=8) with community members, reveals that storytelling significantly enhances the engagement and believability of SCs in community settings.
 
+### War and Peace (WarAgent): Large LanguageModel-based Multi-Agent Simulation of World Wars
+
+
+
+### AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors
+
+>Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks. However, in real-world scenarios, cooperation among individuals is often required to enhance the efficiency and effectiveness of task accomplishment. Hence, inspired by human group dynamics, we propose a multi-agent framework \framework that can collaboratively and dynamically adjust its composition as a greater-than-the-sum-of-its-parts system. Our experiments demonstrate that \framework framework can effectively deploy multi-agent groups that outperform a single agent. Furthermore, we delve into the emergence of social behaviors among individual agents within a group during collaborative task accomplishment. In view of these behaviors, we discuss some possible strategies to leverage positive ones and mitigate negative ones for improving the collaborative potential of multi-agent groups. Our codes for \framework will soon be released at \url{[this https URL](https://github.com/OpenBMB/AgentVerse)}.
+
+```
+@misc{chen2023agentverse,
+      title={AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors}, 
+      author={Weize Chen and Yusheng Su and Jingwei Zuo and Cheng Yang and Chenfei Yuan and Chi-Min Chan and Heyang Yu and Yaxi Lu and Yi-Hsin Hung and Chen Qian and Yujia Qin and Xin Cong and Ruobing Xie and Zhiyuan Liu and Maosong Sun and Jie Zhou},
+      year={2023},
+      eprint={2308.10848},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
