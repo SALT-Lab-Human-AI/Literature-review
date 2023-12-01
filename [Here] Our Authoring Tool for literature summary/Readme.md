@@ -5,11 +5,9 @@
 In the world of research, organizing and managing literature can often be a daunting task, especially for those of us who appreciate efficiency and simplicity. Recognizing this challenge, we've drawn inspiration from innovative tools that streamline the process of handling scientific papers.
 
 ### Acknowledgements
-
 Our work builds upon the foundations laid by remarkable projects in this domain:
-
-Quickly Extract Science Papers by daveshap
-LLM Scientific Feedback by Weixin-Liang
+- [Quickly Extract Science Papers](https://github.com/daveshap/Quickly_Extract_Science_Papers) by daveshap
+- [LLM Scientific Feedback](https://github.com/Weixin-Liang/LLM-scientific-feedback) by Weixin-Liang
 
 ### About Our Tool
 
